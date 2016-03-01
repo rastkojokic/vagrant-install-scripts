@@ -14,4 +14,4 @@ wget http://packages.erlang-solutions.com/ubuntu/erlang_solutions.asc
 sudo apt-key add erlang_solutions.asc
 
 sudo apt-get update
-sudo apt-get install erlang
+sudo apt-get install erlang -y

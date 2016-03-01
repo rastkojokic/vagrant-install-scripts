@@ -7,3 +7,4 @@ Various install scripts for Vagrant to be shared across different Vagrant dev bo
 - install vim from [this](https://github.com/rastkojokic/vimfiles) repository
 - install git [with custom .gitconfig](https://github.com/rastkojokic/dotfiles/blob/master/gitconfig)
 - install node 4.x
+- install [ejabberd](https://github.com/processone/ejabberd) dependencies

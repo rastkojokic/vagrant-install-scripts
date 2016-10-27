@@ -1,4 +1,3 @@
-sudo apt-get install erlang erlang-doc -y --force-yes
 sudo apt-get install libyaml-dev -y --force-yes
 sudo apt-get install libexpat1-dev -y --force-yes
 sudo apt-get install automake -y --force-yes
@@ -12,6 +11,3 @@ sudo sh -c "echo 'deb http://packages.erlang-solutions.com/ubuntu trusty contrib
 
 sudo wget http://packages.erlang-solutions.com/ubuntu/erlang_solutions.asc
 sudo apt-key add erlang_solutions.asc
-
-sudo apt-get update
-sudo apt-get install erlang -y --force-yes

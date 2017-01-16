@@ -1,1 +1,1 @@
-sudo apt-get install ngrok-client
+sudo apt-get install -y ngrok-client

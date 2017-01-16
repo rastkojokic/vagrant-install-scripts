@@ -8,4 +8,4 @@ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 9ECBEC467F0CEB10
 
 sudo apt-get update
 
-sudo apt-get install -y mongodb-org
+sudo apt-get install -y  --force-yes mongodb-org
